@@ -9,7 +9,7 @@ npm install
 ```
 npm run serve
 ```
-
+### add 1920*1080 pixels custom device to devtool, toggle device toolbar to use this tv web
 ### Compiles and minifies for production
 ```
 npm run build
